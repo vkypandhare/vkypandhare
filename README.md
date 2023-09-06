@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dharmaraj Pandhare    
-- 👀 I’m interested in softwar engineer
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Computer Engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
